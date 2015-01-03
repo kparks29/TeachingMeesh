@@ -30,17 +30,17 @@
 =======================*/
 //You can do math to variables
 
-//Declare a variable sum and set it to firstNum plus secondNum
+//Declare a variable called sum and set it to firstNum plus secondNum
 //code goes here
 
 
 
-//Declare a variable diff and set it to firstNum minus secondNum
+//Declare a variable called diff and set it to firstNum minus secondNum
 //code goes here
 
 
 
-//Declare a variable product and set it to firstNum times secondNum
+//Declare a variable called product and set it to firstNum times secondNum
 //code goes here
 
 
