@@ -56,7 +56,7 @@
 =======================*/
 //There are built in functions for variables
 
-//Declare a variable called myLength and set it to the length of name;
+//Declare a variable called myLength and set it to the length of myName;
 //code goes here
 
 
