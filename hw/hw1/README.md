@@ -17,9 +17,5 @@ Requirements:
 4) Must have fun!!
 
 
-You will be presenting at the end of the day!
-You will have 2 modules to work on this.
-
-
 
 PS. Jake really likes jquery and css animations ;)
