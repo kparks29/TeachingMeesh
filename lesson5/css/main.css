@@ -14,3 +14,7 @@ p {
   margin: 0 auto;
   padding-top: 15px;
 }
+
+h1 {
+  height: 40px;
+}

@@ -5,13 +5,13 @@
 
 //Declare a variable called myName
 //code goes here
-var myName;
+
 
 
 
 //Next set myName to Meesh
 //code goes here
-myName = "Meesh";
+
 
 
 /*=======================
@@ -21,8 +21,7 @@ myName = "Meesh";
 
 //Declare variables called firstNum and set it to 2 and secondNum and set it to 5
 //code goes here
-var firstNum = 2;
-var secondNum = 5;
+
 
 
 
@@ -33,22 +32,22 @@ var secondNum = 5;
 
 //Declare a variable sum and set it to firstNum plus secondNum
 //code goes here
-var sum = firstNum + secondNum;
+
 
 
 //Declare a variable diff and set it to firstNum minus secondNum
 //code goes here
-var diff = firstNum - secondNum;
+
 
 
 //Declare a variable product and set it to firstNum times secondNum
 //code goes here
-var product = firstNum * secondNum;
+
 
 
 //Declare a variable called quotient and set it to firstNum divided by secondNum
 //code goes here
-var quotient = firstNum / secondNum;
+
 
 
 
@@ -59,22 +58,28 @@ var quotient = firstNum / secondNum;
 
 //Declare a variable called myLength and set it to the length of name;
 //code goes here
-var myLength = myName.length;
+
 
 
 //Declare a variable called upcaseName and make it to equal to myName but with all uppercase letters
 //code goes here
-var upcaseName = myName.toUpperCase();
 
 
 
 
+/*=======================
+        Part 5
+=======================*/
+//You can store many values in 1 variables with arrays
+
+//Declare a variable called myArray and set it to have the values: 1 and "hello"
+//code goes here
 
 
 
-
-
-
+//you can also store variables in arrays
+//Declare a variable called myArray2 and set it's values to: 2 and "world" and myName
+//code goes here
 
 
 
