@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+#gameBoard {
+  border: 1px solid black;
+  width: 306px;
+  height: 306px;
+  margin: 0 auto;
+}
+
+.row {
+  width: 306px;
+  height: 102px;
+}
+
+.cell {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  float: left;
+}
+
+
+
+

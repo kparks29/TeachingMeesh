@@ -1,0 +1,11 @@
+.cell {
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  float: left;
+}
+
+.row {
+  height: 252px;
+  width: 756px;
+}
